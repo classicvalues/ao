@@ -10,7 +10,7 @@ currently being supported with security updates.
 | X.X.X     | :white_check_mark: |
 | X.X.x     | :x:                |
 | X.x.X     | :white_check_mark: |
-| X.x.x     | :x                 |
+| X.x.x     | :x:                 |
 | x.X.X     | :white_check_mark: |
 | x.X.x     | :x:                |
 | x.x.X     | :white_check_mark: |
